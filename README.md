@@ -1,1 +1,0 @@
-# FreshCart-Supply-Chain-SQL-Analytics
